@@ -1,5 +1,6 @@
 
-# Hi there 👋 I am Simon, an Australian Data Engineer | Data shaped human 🇦🇺
+# Hi there 👋 I am Simon
+Simon Aubury - I'm an Australian Data Engineer | Data shaped human 🇦🇺
 
 ## BIO
 
@@ -12,6 +13,14 @@ Simon describes his job to his children as being a “data geek”.  Although it
 ## Photos
 
 [Headshot](assets/simon-aubury.jpg)
+
+## Social Media Handles
+
+```
+Twitter : @SimonAubury
+Github : https://github.com/saubury
+LinkedIn : https://www.linkedin.com/in/simonaubury
+```
 
 <!--
 **saubury/saubury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
