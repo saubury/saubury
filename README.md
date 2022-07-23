@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Hi there 👋 I am Simon, an Australian Data Engineer | Data shaped human 🇦🇺
 
 <!--
 **saubury/saubury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
