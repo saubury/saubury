@@ -5,7 +5,7 @@ Simon Aubury - I'm an Australian Data Engineer | Data shaped human 🇦🇺
 ## BIO
 
 ```
-Simon Aubury is a Principal Data Engineer at Thoughtworks, Sydney.  
+Simon Aubury is a Principal Data Engineer in Sydney.  
 
 Simon describes his job to his children as being a “data geek”.  Although it doesn’t impress his kids,  he is proud to have worked around the globe building highly available distributed data systems for finance, transport, health care, insurance and telecommunications clients. Simon’s current passion is working with streaming technologies and data mesh architecture
 ```
